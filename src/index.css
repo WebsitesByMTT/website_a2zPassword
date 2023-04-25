@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +9,71 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: Raleway;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+@media screen and (min-width: 480px){
+.line-number:before {
+  content: "";
+  background-color:#37d834;
+  position: absolute;
+  width: 265px;
+  left: -315px;
+  top: 17px;
+  height: 3px;
+}
+.line-number:before {
+  left: 50px;
+}
+.line-number:after {
+  content: "";
+  background-color: #37d834;
+  position: absolute;
+  width: 260px;
+  left: -290px;
+  top: 17px;
+  height: 3px;
+  
+}
+}
+.colored-line {
+  margin: auto;
+  background: #8089E1;
+  display: block;
+  height: 5px;
+  width: 80px;
+  border-radius: 5px;
+
+}
+.colored-line1 {
+  margin: auto;
+  background: #8089E1;
+  display: block;
+  height: 6px;
+  border-radius: 5px;
+  width: 100px;
+}
+#pan:after {
+  content: '+';
+  position: absolute;
+  right: 1em;
+  color: #fff;
+}
+
+input:checked + #pan:after {
+  content: '-';
+  line-height: .8em;
+}
+
+.accordion__content{
+  max-height: 0em;
+  transition: all 0.4s cubic-bezier(0.865, 0.14, 0.095, 0.87);
+}
+input[name='panel']:checked ~ .accordion__content {
+  /* Get this as close to what height you expect */
+  max-height: 50em;
 }
