@@ -289,11 +289,11 @@ export default function Home() {
             <label
               id="pan"
               for="panel-1"
-              class="relative block lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
+              class="relative block lg:ml-[20%] lg:max-w-[60%] max-w-full mx-[5%] lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
             >
               What is a2zPassword Manager?
             </label>
-            <div class="accordion__content lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] overflow-hidden border-inherit rounded-b-xl ">
+            <div class="accordion__content lg:max-w-[60%] max-w-full mx-[5%] lg:mx-0 bg-[#60B85E] overflow-hidden border-inherit rounded-b-xl ">
               <p class="accordion__body p-4" id="panel1">
                a2zPassword Manager remembers all your passwords, so you
                 don’t have to. They’re stored securely in a digital vault and
@@ -310,11 +310,11 @@ export default function Home() {
             <label
               id="pan"
               for="panel-2"
-              class="relative block lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
+              class="relative block lg:ml-[20%] lg:max-w-[60%] max-w-full mx-[5%]  lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
             >
               Why should I use Password Manager from a2zPassword?
             </label>
-            <div class="accordion__content overflow-hidden lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] border-inherit rounded-b-xl ">
+            <div class="accordion__content overflow-hidden lg:ml-[20%] lg:max-w-[60%] max-w-full lg:mx-0 bg-[#60B85E] border-inherit rounded-b-xl ">
               <p class="accordion__body p-4" id="panel1">
                 Now you can have one less thing to remember: your passwords.
                 They’re safely stored and at your disposal whenever you need
@@ -359,11 +359,11 @@ export default function Home() {
             <label
               id="pan"
               for="panel-3"
-              class="relative block lg:ml-[20%] lg:w-[60%] w-full mx-[5%] lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
+              class="relative block lg:ml-[20%] lg:max-w-[60%] max-w-full  mx-[5%] lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
             >
              What if I lose a device on which Password Manager is installed?
             </label>
-            <div class="accordion__content overflow-hidden lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] border-inherit rounded-b-xl ">
+            <div class="accordion__content overflow-hidden lg:ml-[20%] lg:max-w-[60%] max-w-full lg:mx-0 bg-[#60B85E] border-inherit rounded-b-xl ">
               <p class="accordion__body p-4" id="panel1">
               To prevent your passwords from falling into the wrong hands, we recommend switching on the Auto-Lock function under Settings. This locks all your passwords and notes after a set period, and they will only be accessible with your Master Password.
 <br/>

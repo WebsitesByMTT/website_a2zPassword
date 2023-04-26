@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <>
       <div className="bg-[#5c7eb6] pt-[3%] pb-[3%] bottom-0">
-      <div className="flex flex-col lg:flex-row  gap-20 font-medium lg:mx-[7%] pb-[3%]">
+      <div className="flex flex-col lg:flex-row items-center gap-20 font-medium lg:mx-[7%] pb-[3%]">
         
         <div className="flex-1 ">
      <a href='/'><img src="./A2zpassword250x100.png"  alt="Logo" /></a>  
