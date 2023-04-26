@@ -187,15 +187,15 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="bg-[#60B85E] text-white mt-[7%]  p-[3%]">
+        <div className="bg-[#8089E1] text-white   p-[3%]">
           <div className=" lg:mb-[0%] mb-[10%]">
             <h1 className="lg:text-5xl text-2xl text-center font-bold my-[2%]">
-              Features of True a2zpassword
+              Features of a2zpassword
             </h1>
-            <div class="colored-line1"></div>
+            <div className="colored-line2"></div>
           </div>
           <div className=" grid lg:grid-cols-3 grid-cols-1 text-white py-[3%] px-[5%] gap-7 ">
-            <div className="flex flex-col gap-4 bg-[#8089E1] border rounded-xl p-8 ">
+            <div className="flex flex-col gap-4 bg-[#60B85E] border rounded-xl p-8 ">
               <div className="pt-2">
                 <HiOutlineCursorClick size={"2rem"} />
               </div>
@@ -208,7 +208,7 @@ export default function Home() {
                 </p>
               </div>
             </div>
-            <div className="flex flex-col gap-4 bg-[#8089E1] border rounded-xl p-8 ">
+            <div className="flex flex-col gap-4 bg-[#60B85E] border rounded-xl p-8 ">
               <div className="pt-2">
                 <TbCircleKey size={"2rem"} />
               </div>
@@ -223,7 +223,7 @@ export default function Home() {
                 </p>
               </div>
             </div>
-            <div className="flex flex-col gap-4 bg-[#8089E1] border rounded-xl p-8 ">
+            <div className="flex flex-col gap-4 bg-[#60B85E] border rounded-xl p-8 ">
               <div className="pt-2">
                 <FaTabletAlt size={"2rem"} />
               </div>
@@ -237,7 +237,7 @@ export default function Home() {
                 </p>
               </div>
             </div>
-            <div className="flex flex-col gap-4 bg-[#8089E1] border rounded-xl p-8 ">
+            <div className="flex flex-col gap-4 bg-[#60B85E] border rounded-xl p-8 ">
               <div className="pt-2">
                 <FaSyncAlt size={"2rem"} />
               </div>
@@ -251,7 +251,7 @@ export default function Home() {
                 </p>
               </div>
             </div>
-            <div className="flex flex-col gap-4 bg-[#8089E1] border rounded-xl p-8 ">
+            <div className="flex flex-col gap-4 bg-[#60B85E] border rounded-xl p-8 ">
               <div className="pt-2">
                 <MdOutlineWifiPassword size={"2rem"} />
               </div>
@@ -264,7 +264,7 @@ export default function Home() {
                 </p>
               </div>
             </div>
-            <div className="flex flex-col gap-4 bg-[#8089E1] border rounded-xl p-8 ">
+            <div className="flex flex-col gap-4  bg-[#60B85E] border rounded-xl p-8 ">
               <div className="pt-2">
                 <AiFillFolderOpen size={"2rem"} />
               </div>
@@ -291,17 +291,17 @@ export default function Home() {
               for="panel-1"
               class="relative block lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
             >
-              What is Avira Password Manager?
+              What is a2zPassword Manager?
             </label>
             <div class="accordion__content lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] overflow-hidden border-inherit rounded-b-xl ">
               <p class="accordion__body p-4" id="panel1">
-                Avira Password Manager remembers all your passwords, so you
+               a2zPassword Manager remembers all your passwords, so you
                 don’t have to. They’re stored securely in a digital vault and
                 synced across all your devices. Rest assured that no one, apart
-                from you (not even Avira), has access to your passwords. You
+                from you (not even a2zPassword), has access to your passwords. You
                 have the option to assign tags to saved accounts, add credit
                 cards, save notes to passwords, or create stand-alone notes.
-                They are securely stored inside Avira Password Manager.
+                They are securely stored insidea2zPassword Manager.
               </p>
             </div>
           </div>
@@ -312,7 +312,7 @@ export default function Home() {
               for="panel-2"
               class="relative block lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
             >
-              Why should I use Password Manager from Avira?
+              Why should I use Password Manager from a2zPassword?
             </label>
             <div class="accordion__content overflow-hidden lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] border-inherit rounded-b-xl ">
               <p class="accordion__body p-4" id="panel1">
@@ -348,7 +348,7 @@ export default function Home() {
                 <br />
                 Furthermore, we’re award-winning security specialists with a
                 proud history of 30 years. Over 100 million satisfied customers
-                worldwide trust Avira to keep their digital lives and data safe.
+                worldwide trust a2zPassword to keep their digital lives and data safe.
                 Our software is German-engineered, and your data is stored in
                 Germany – in accordance with all EU legislation, of course.
               </p>
@@ -408,13 +408,13 @@ If you lose a device with the Password Manager, go to Connected devices on the d
               <p class="accordion__body p-4" id="panel1">
                 We’ll be disappointed to see you go! Before you delete your
                 account, we recommend exporting your data. To delete your
-                account and all the data held within Avira Password Manager,
+                account and all the data held within a2zPassword Manager,
                 please follow these steps: On the online dashboard, under
-                Settings click Delete Avira Password Manager data. Then
+                Settings click Delete a2zPassword Manager data. Then
                 uninstall the Password Manager browser extension from all your
-                browsers. Also delete the Avira Password Manager app from all
-                your mobile phones and tablets. Your Avira account will still
-                remain. If you choose so, you can delete your Avira account at
+                browsers. Also delete the a2zPassword Manager app from all
+                your mobile phones and tablets. Your a2zPassword account will still
+                remain. If you choose so, you can delete your a2zPassword account at
                 my.avira.com. If you were unhappy with anything, we’re always
                 grateful for feedback as it allows us to improve our products.
                 Thank you!
@@ -439,12 +439,12 @@ If you lose a device with the Password Manager, go to Connected devices on the d
                     <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                   </svg>
                   <p class="leading-relaxed mb-6">
-                    Initially I've used the free version of Avira antivirus for
+                    Initially I've used the free version of a2zPassword antivirus for
                     a long time and It was quite good for basic protection and
                     never had an issue. Keeping the latest cyber security
                     threats in mind, I had to upgrade for a premium version of
-                    Avira and it is worth trying. According to me the most
-                    important feature of Avira is that Avira products are pretty
+                    a2zPassword and it is worth trying. According to me the most
+                    important feature of a2zPassword is that a2zPassword products are pretty
                     lightweight on system resources along with top class
                     protection.
                   </p>
@@ -471,7 +471,7 @@ If you lose a device with the Password Manager, go to Connected devices on the d
                     <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                   </svg>
                   <p class="leading-relaxed mb-6">
-                    I recently switched to Avira cause my previous antivirus
+                    I recently switched to a2zPassword cause my previous antivirus
                     gave me trouble. I purchased the prime version it works
                     perfectly on my laptop and desktop as well. I saw people
                     talk about data selling but I didn't have any issues with
@@ -502,7 +502,7 @@ If you lose a device with the Password Manager, go to Connected devices on the d
                   <p class="leading-relaxed mb-6">
                     The very best anti-virus in the IT industry. I used it from
                     a very long time. I try to test some other brand but im not
-                    satisfied. Avira is the only one protection for my computer,
+                    satisfied. a2zPassword is the only one protection for my computer,
                     cellphone and tablet. Keep up the good work guys. Honesty i
                     used the free vertion of the app but still i get the full
                     protection i need. Thanks a lot.
@@ -530,11 +530,11 @@ If you lose a device with the Password Manager, go to Connected devices on the d
                     <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                   </svg>
                   <p class="leading-relaxed mb-6">
-                    I have been using Avira since it was a Beta product. I still
+                    I have been using a2zPassword since it was a Beta product. I still
                     use it to this day. Last update I purposely installed it on
                     a computer I loaded up with malware and viruses. One scan
                     and it picked everything I had installed and zero false
-                    positives. I highly recommend Avira and I recommend it to
+                    positives. I highly recommend a2zPassword and I recommend it to
                     others as well.
                   </p>
                   <a class="inline-flex items-center">
@@ -560,9 +560,9 @@ If you lose a device with the Password Manager, go to Connected devices on the d
           <div className="text-2xl lg:text-xl font-bold">Popular Searches</div>
           <div className="hidden lg:flex font-semibold">:</div>
           <div className="p-3 text-center lg:text-left ">
-            free ad blocker, adblocker, adblocker chrome extension, best free ad
-            blocker, best free ad blocker for chrome, free ad blocker chrome, ad
-            blocker free, adblocker chrome, best adblocker, adblocker google
+            free  a2zPassword,  a2zPassword,  a2zPassword chrome extension, best free  a2zPassword
+            , best free  a2zPassword for chrome, free  a2zPassword chrome, a2zPassword
+            free,  a2zPassword chrome, best a2zPassword,  a2zPassword google
             chrome
           </div>
         </div>

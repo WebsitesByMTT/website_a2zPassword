@@ -57,6 +57,14 @@ code {
   border-radius: 5px;
   width: 100px;
 }
+.colored-line2 {
+  margin: auto;
+  background: #60B85E;
+  display: block;
+  height: 6px;
+  border-radius: 5px;
+  width: 100px;
+}
 #pan:after {
   content: '+';
   position: absolute;
