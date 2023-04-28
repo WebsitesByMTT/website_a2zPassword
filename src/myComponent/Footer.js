@@ -12,7 +12,7 @@ export default function Footer() {
      <a href='/'><img src="./A2zpassword250x100.png"  alt="Logo" /></a>  
      </div>
      
-      <div className=" text-white flex-1  ">
+      <div className=" text-white lg:flex-1  ">
         <ul >    
           <li >
          <a href="/About_us"> About Us</a>
@@ -25,7 +25,7 @@ export default function Footer() {
             </li>
         </ul>
        </div>
-     <div className=" text-white flex-1  ">
+     <div className=" text-white lg:flex-1  ">
         <ul>
           <li>
          <a href="/Privacy_Policy">Privacy Policy</a> 
@@ -38,7 +38,7 @@ export default function Footer() {
             </li>
         </ul>
        </div>
-       <div className=" text-white flex-1">
+       <div className=" text-white lg:flex-1">
         <ul className='' >
           <li className='inline-block' >
          <a href="/"><AiFillFacebook size={"2rem"} className="hover:scale-110"/></a> 

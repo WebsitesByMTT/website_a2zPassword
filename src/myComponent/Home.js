@@ -40,8 +40,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className=" font-medium">
-                    Secure storage: Ensure all your sensitive information is
-                    stored safely.
+                  Secure storage: Ensure that all of your critical data is stored securely.
                   </p>
                 </div>
               </div>
@@ -60,8 +59,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className=" font-medium">
-                    Strong passwords: Make your passwords unique and strong
-                    without having to remember them.
+                  Strong passwords: Create secure passwords that you won't have to remember.
                   </p>
                 </div>
               </div>
@@ -80,8 +78,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className=" font-medium">
-                    Time savings: Cut down on the time it takes to log in to
-                    your online accounts.
+                  Save time: Save time by logging into your online accounts less frequently.
                   </p>
                 </div>
               </div>
@@ -100,8 +97,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className=" font-medium">
-                    Sharing: Share passwords and other information with
-                    teammates or family members.
+                  Share: Passwords and other information should be shared with coworkers or family members.
                   </p>
                 </div>
               </div>
@@ -112,7 +108,7 @@ export default function Home() {
           <div className="py-[5%] ">
             <div className="mb-3">
               <h1 className="text-3xl text-white text-center font-semibold">
-                How It Works
+              How does a2z google password manager work?
               </h1>
             </div>
             <div class="colored-line"></div>
@@ -127,13 +123,11 @@ export default function Home() {
                   <BsShieldShaded size={"6rem"} style={{ color: "white" }} />
                 </div>
                 <div>
-                  <h1 className="text-lg font-bold ">Create your account</h1>
+                  <h1 className="text-lg font-bold "> Make an account</h1>
                 </div>
                 <div>
                   <p className="text-center">
-                    Create your RoboForm account by entering your email address
-                    and setting a Master Password. The Master Password secures
-                    your data. It is the one password you'll need to remember.
+                  By providing your email address and selecting a2z google password manager, you may create a password account. Your data is secured using the Master Password. The only password you will need to remember is this one.
                   </p>
                 </div>
               </div>
@@ -150,14 +144,11 @@ export default function Home() {
                   />
                 </div>
                 <div>
-                  <h1 className="text-lg font-bold ">Add your passwords</h1>
+                  <h1 className="text-lg font-bold "> Add your passwords</h1>
                 </div>
                 <div>
                   <p className="text-center">
-                    Add your passwords manually or import from your browser, a
-                    CSV, or even another password management product. RoboForm
-                    saves new passwords automatically as you log in to your
-                    online accounts.
+                  You can manually enter your passwords or import them from a CSV file, your browser, or even another password management program. A2z google password manager automatically saves new passwords as you sign in to your online accounts.
                   </p>
                 </div>
               </div>
@@ -172,15 +163,12 @@ export default function Home() {
                 </div>
                 <div>
                   <h1 className="text-lg font-bold ">
-                    Log in fast on every device
+                  Quickly log in on all devices
                   </h1>
                 </div>
                 <div>
                   <p className="text-center">
-                    Save time by logging into your accounts with a single click
-                    or tap. RoboForm is available on every OS. Web access and
-                    extensions for all major browsers mean you'll never lose
-                    another password!
+                  Logging into your accounts with a single click or tap will save you time. On every OS, a2z google password manager is available. You won't ever forget another password thanks to web access and addons for all popular browsers!
                   </p>
                 </div>
               </div>
@@ -200,11 +188,9 @@ export default function Home() {
                 <HiOutlineCursorClick size={"2rem"} />
               </div>
               <div>
-                <h1 className="text-3xl font-bold pb-2">One click Logins</h1>
+                <h1 className="text-3xl font-bold pb-2">Easy to login</h1>
                 <p>
-                  Leave the hassle of typing usernames and passwords behind.
-                  RoboForm logs you in to websites with a single click. Use our
-                  on page AutoFill or select a Login directly from RoboForm.
+                Do not bother filling in usernames and passwords. You can sign into websites using a2z password manager with only one click. Use our page's autofill feature or choose a login option from a2z password manager. 
                 </p>
               </div>
             </div>
@@ -214,12 +200,10 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-3xl font-bold pb-2">
-                  Capture passwords while you browse
+                Synchronize your passwords
                 </h1>
                 <p>
-                  Go about surfing the web as usual and let RoboForm do all the
-                  work. Passwords are captured and saved, with no additional
-                  steps required from you.
+                Your login information is synced across all of your browsers and devices using the a2z password manager Everywhere secure cloud.
                 </p>
               </div>
             </div>
@@ -229,11 +213,10 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-3xl font-bold pb-2">
-                  Anytime, anywhere access
+                Everywhere, anytime access
                 </h1>
                 <p>
-                  Supported on multiple platforms including Windows, Mac, iOS,
-                  Android, and all major browsers.
+                Supported across a variety of operating systems and browsers, including Windows, Mac, iOS, and Android.
                 </p>
               </div>
             </div>
@@ -243,11 +226,10 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-3xl font-bold pb-2">
-                  Keep your passwords in sync
+                a2zPassword secure password generator
                 </h1>
                 <p>
-                  The RoboForm Everywhere secure cloud keeps your passwords
-                  backed up and in sync across all your browsers and devices.
+                a2zPassword automatically secures password generator which are based on the guidelines that you will set and create strong and uncertain logins.
                 </p>
               </div>
             </div>
@@ -256,11 +238,9 @@ export default function Home() {
                 <MdOutlineWifiPassword size={"2rem"} />
               </div>
               <div>
-                <h1 className="text-3xl font-bold pb-2">Offline access</h1>
+                <h1 className="text-3xl font-bold pb-2">a2zPassword google password manager save password</h1>
                 <p>
-                  Desktop and mobile apps provide offline access to RoboForm
-                  data. In addition, the desktop and mobile versions offer
-                  optional local-only storage.
+                You can easily save your password with just one click.
                 </p>
               </div>
             </div>
@@ -269,10 +249,9 @@ export default function Home() {
                 <AiFillFolderOpen size={"2rem"} />
               </div>
               <div>
-                <h1 className="text-3xl font-bold pb-2">Stay organized</h1>
+                <h1 className="text-3xl font-bold pb-2">Write down passwords while you browse</h1>
                 <p>
-                  Store and categorize all your passwords in easy-to-manage
-                  folders. Pin your favorite Logins for easy access.
+                Allow a2z password manager to handle everything while you continue to browse the web as normal. You don't need to take any more action in order for passwords to be collected and preserved.
                 </p>
               </div>
             </div>
@@ -295,13 +274,7 @@ export default function Home() {
             </label>
             <div class="accordion__content lg:max-w-[60%] max-w-full mx-[5%] lg:mx-0 bg-[#60B85E] overflow-hidden border-inherit rounded-b-xl ">
               <p class="accordion__body p-4" id="panel1">
-               a2zPassword Manager remembers all your passwords, so you
-                don’t have to. They’re stored securely in a digital vault and
-                synced across all your devices. Rest assured that no one, apart
-                from you (not even a2zPassword), has access to your passwords. You
-                have the option to assign tags to saved accounts, add credit
-                cards, save notes to passwords, or create stand-alone notes.
-                They are securely stored insidea2zPassword Manager.
+              You don't have to remember any of your passwords since a2z google Password Manager will. They are synchronised between all of your devices and are safely kept in a digital vault. You alone, and not even a2z google password manager, have access to your passwords, so you can relax. You have the choice to add credit cards, add tags to stored accounts, save notes to passwords, or make standalone notes. Inside a2z google Password Manager, they are kept in a secure manner.
               </p>
             </div>
           </div>
@@ -312,45 +285,33 @@ export default function Home() {
               for="panel-2"
               class="relative block lg:ml-[20%] lg:max-w-[60%] max-w-full mx-[5%]  lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
             >
-              Why should I use Password Manager from a2zPassword?
+             What are the benefits of using a2z google password manager?
             </label>
             <div class="accordion__content overflow-hidden lg:ml-[20%] lg:max-w-[60%] max-w-full lg:mx-0 bg-[#60B85E] border-inherit rounded-b-xl ">
               <p class="accordion__body p-4" id="panel1">
-                Now you can have one less thing to remember: your passwords.
-                They’re safely stored and at your disposal whenever you need
-                them.
+              Your passwords can now be one less thing for you to remember. They are available to you whenever you need them and are securely preserved.
                 <ul className="ml-5 list-disc">
                   <li>
-                    Your passwords are stored in a highly secured online vault.
-                    All your sensitive data is encrypted with your Master
-                    Password.
+                  Your credentials are kept in an exceptionally safe online vault. Your Master Password encrypts all of your important data.
                   </li>
                   <li>
-                    Your passwords are synchronized across your desktop and
-                    mobile devices.
+                  The security status evaluates how secure your passwords and accounts are and alerts you if any issues are discovered.
                   </li>
                   <li>
-                    Your passwords are regularly backed up to prevent data loss.
+                  On both your desktop and mobile devices, your passwords are synced.
                   </li>
                   <li>
-                    You can auto-fill your passwords on your desktop and mobile
-                    devices.
+                  To avoid data loss, your passwords are frequently stored up.
                   </li>
                   <li>
-                    You can auto-save your passwords with the save pop-up for
-                    new accounts.
+                  Your passwords can be auto-filled on both desktop and mobile devices.
                   </li>
                   <li>
-                    The security status checks how secure your accounts and
-                    passwords are and warns you in case of findings.
+                  By using the save pop-up for new accounts, you may automatically save your passwords.
                   </li>
                 </ul>
                 <br />
-                Furthermore, we’re award-winning security specialists with a
-                proud history of 30 years. Over 100 million satisfied customers
-                worldwide trust a2zPassword to keep their digital lives and data safe.
-                Our software is German-engineered, and your data is stored in
-                Germany – in accordance with all EU legislation, of course.
+                Furthermore, we have a storied 30-year experience as award-winning security experts. across 100 million content clients rely on a2z google Password manager to protect their digital identities and data all across the world. Your data is stored in Germany and our software was developed in Germany, naturally adhering to all EU regulations.
               </p>
             </div>
           </div>
@@ -361,36 +322,13 @@ export default function Home() {
               for="panel-3"
               class="relative block lg:ml-[20%] lg:max-w-[60%] max-w-full  mx-[5%] lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
             >
-             What if I lose a device on which Password Manager is installed?
+            What happens if I misplace a device with Password Manager installed on it?
             </label>
             <div class="accordion__content overflow-hidden lg:ml-[20%] lg:max-w-[60%] max-w-full lg:mx-0 bg-[#60B85E] border-inherit rounded-b-xl ">
               <p class="accordion__body p-4" id="panel1">
-              To prevent your passwords from falling into the wrong hands, we recommend switching on the Auto-Lock function under Settings. This locks all your passwords and notes after a set period, and they will only be accessible with your Master Password.
-<br/>
-If you lose a device with the Password Manager, go to Connected devices on the dashboard and remove the lost device. You will be locked out of Password Manager on that device.
-               
-              </p>
-            </div>
-          </div>
-          <div class=" ">
-            <input type="checkbox" name="panel" id="panel-4" class="hidden" />
-            <label
-              id="pan"
-              for="panel-4"
-              class="relative block lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
-            >
-              {" "}
-              What if I lose a device on which Password Manager is installed?
-            </label>
-            <div class="accordion__content overflow-hidden lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] border-inherit rounded-b-xl ">
-              <p class="accordion__body p-4" id="panel1">
-                To prevent your passwords from falling into the wrong hands, we
-                recommend switching on the Auto-Lock function under Settings.
-                This locks all your passwords and notes after a set period, and
-                they will only be accessible with your Master Password. If you
-                lose a device with the Password Manager, go to Connected devices
-                on the dashboard and remove the lost device. You will be locked
-                out of Password Manager on that device.
+              We advise turning on the Auto-Lock feature under Settings to prevent your passwords from getting into the wrong hands. After a predetermined amount of time, this locks all of your passwords and notes, making them inaccessible without your Master Password.
+When a device connected to the Password Manager is lost, go to Connected devices on the dashboard and remove it. On that device, Password Manager will be shut out for you.
+
               </p>
             </div>
           </div>
@@ -401,23 +339,11 @@ If you lose a device with the Password Manager, go to Connected devices on the d
               for="panel-5"
               class="relative block lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] text-white p-4 shadow border-b border-inherit rounded-t-xl"
             >
-              I no longer want to use Password Manager. How do I delete my
-              account?
+         How to delete my a2z google password manager account?
             </label>
             <div class="accordion__content overflow-hidden lg:ml-[20%] lg:w-[60%] mx-[5%] lg:mx-0 bg-[#60B85E] border-inherit rounded-b-xl ">
               <p class="accordion__body p-4" id="panel1">
-                We’ll be disappointed to see you go! Before you delete your
-                account, we recommend exporting your data. To delete your
-                account and all the data held within a2zPassword Manager,
-                please follow these steps: On the online dashboard, under
-                Settings click Delete a2zPassword Manager data. Then
-                uninstall the Password Manager browser extension from all your
-                browsers. Also delete the a2zPassword Manager app from all
-                your mobile phones and tablets. Your a2zPassword account will still
-                remain. If you choose so, you can delete your a2zPassword account at
-                my.avira.com. If you were unhappy with anything, we’re always
-                grateful for feedback as it allows us to improve our products.
-                Thank you!
+              We will be sorry to see you go! We advise exporting your data before deleting your account. Please follow these instructions to remove your account and all the information stored in a2z google Password Manager: Click Delete a2z google Password Manager data under Settings on the online dashboard. Remove the a2z google Password Manager browser extension from each of your browsers after that. Remove the a2z google Password Manager app from all of your tablets and smartphones as well. Your account with a2z google Password manager will continue to exist. At Https://a2z-password.vercel.app /, you have the option to delete your a2z google Password manager account. If there was anything that you didn't like, please let us know so we can make improvements. I'm grateful.
               </p>
             </div>
           </div>
@@ -439,14 +365,7 @@ If you lose a device with the Password Manager, go to Connected devices on the d
                     <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                   </svg>
                   <p class="leading-relaxed mb-6">
-                    Initially I've used the free version of a2zPassword antivirus for
-                    a long time and It was quite good for basic protection and
-                    never had an issue. Keeping the latest cyber security
-                    threats in mind, I had to upgrade for a premium version of
-                    a2zPassword and it is worth trying. According to me the most
-                    important feature of a2zPassword is that a2zPassword products are pretty
-                    lightweight on system resources along with top class
-                    protection.
+                  Initially, I spent a lot of time using the a2zPassword antivirus's free edition, which was excellent for providing basic security and never gave me any problems. I had to upgrade to a2z google Password manager premium edition because of the most recent cyber security dangers, and it is worthwhile to try. The fact that a2z google Password manager products use relatively few system resources while still providing top-notch security is, in my opinion, their most significant feature.
                   </p>
                   <a class="inline-flex items-center">
                     <img
@@ -471,11 +390,7 @@ If you lose a device with the Password Manager, go to Connected devices on the d
                     <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                   </svg>
                   <p class="leading-relaxed mb-6">
-                    I recently switched to a2zPassword cause my previous antivirus
-                    gave me trouble. I purchased the prime version it works
-                    perfectly on my laptop and desktop as well. I saw people
-                    talk about data selling but I didn't have any issues with
-                    it.
+                  I recently switched to a2z google Password manager since I had issues with my old antivirus. I bought the Prime version, and both my laptop and desktop can use it without any issues. I heard people discuss selling their data, but I had no objections.
                   </p>
                   <a class="inline-flex items-center">
                     <img
@@ -500,12 +415,7 @@ If you lose a device with the Password Manager, go to Connected devices on the d
                     <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                   </svg>
                   <p class="leading-relaxed mb-6">
-                    The very best anti-virus in the IT industry. I used it from
-                    a very long time. I try to test some other brand but im not
-                    satisfied. a2zPassword is the only one protection for my computer,
-                    cellphone and tablet. Keep up the good work guys. Honesty i
-                    used the free vertion of the app but still i get the full
-                    protection i need. Thanks a lot.
+                  It is the best way to secure password generator. I have been using it for a very long time and I am very satisfied with the a2z google password manager.
                   </p>
                   <a class="inline-flex items-center">
                     <img
@@ -530,12 +440,7 @@ If you lose a device with the Password Manager, go to Connected devices on the d
                     <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                   </svg>
                   <p class="leading-relaxed mb-6">
-                    I have been using a2zPassword since it was a Beta product. I still
-                    use it to this day. Last update I purposely installed it on
-                    a computer I loaded up with malware and viruses. One scan
-                    and it picked everything I had installed and zero false
-                    positives. I highly recommend a2zPassword and I recommend it to
-                    others as well.
+                  For any business, or even for an individual, a2z google password manager is a necessary tool. With the hundreds of passwords we all manage to accumulate, their platform has been a true lifesaver. We appreciate a2z google password manager for helping us stay organised.
                   </p>
                   <a class="inline-flex items-center">
                     <img
@@ -560,10 +465,9 @@ If you lose a device with the Password Manager, go to Connected devices on the d
           <div className="text-2xl lg:text-xl font-bold">Popular Searches</div>
           <div className="hidden lg:flex font-semibold">:</div>
           <div className="p-3 text-center lg:text-left ">
-            free  a2zPassword,  a2zPassword,  a2zPassword chrome extension, best free  a2zPassword
-            , best free  a2zPassword for chrome, free  a2zPassword chrome, a2zPassword
-            free,  a2zPassword chrome, best a2zPassword,  a2zPassword google
-            chrome
+          chrome passwords, view saved passwords chrome,saved passwords on google  ,password manager chrome,password manager chrome extension,
+          best password manager,google password manager,chrome password manager,best password manager,secure password generator,google password generator,
+          password generator google,password generator words,strong password generator,random password generator
           </div>
         </div>
       </div>

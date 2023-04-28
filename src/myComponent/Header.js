@@ -72,13 +72,21 @@ export default function Header() {
 
     <div className='lg:mb-[4%] text-white lg:mt-[0%] mb:[13%] mt-[5%]'>
       <div className='flex items-center flex-col lg:gap-7 gap-8 text-center  bg-[#60B85E] lg:px-[20%] px-[3%] py-[5%]'>
-        <div className='lg:text-[4rem] text-5xl leading-[1.33]  font-bold'>
-          <h1>Password Management from Anywhere</h1>
+        <div className='lg:text-[3rem] text-4xl leading-[1]  font-bold'>
+          <h1>Security starts with a2z google password manager</h1>
         </div>
-        <div className='lg:text-[1.5rem] text-xl  font-normal'>
-          <p>Life is happening online. Work. Play. Family and friends. LastPass puts your digital life at your fingertips, simply and securely.</p>
+        <div className='lg:text-[1rem] text-xl  font-normal'>
+          <p>The A2Z Google password manager cannot be hacked under any circumstances. In addition, we do not possess the ability to access your password due to our exclusive zero-knowledge encryption system.</p>
         </div>
-        <div className='flex lg:flex-row flex-col lg:gap-12 gap-6'>
+        <div className=''>
+
+<button className="text-white lg:text-xl text-sm p-3 font-semibold bg-[#8089E1] lg:px-14 lg:py-2  rounded-3xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-70 hover:bg-[#8089E1] duration-300 ">
+     <a href='https://chrome.google.com/webstore/detail/true-adblocker/edhpnfalgkdhdghkdjdnhmnfnomnlobm' target="_blank">
+      Add To Chrome
+       </a>
+     </button>
+</div>
+        {/* <div className='flex lg:flex-row flex-col lg:gap-12 gap-6'>
         <div className=''>
 
        <button className="text-white lg:text-xl text-sm p-3 font-semibold bg-[#8089E1] lg:px-14 lg:py-2  rounded-3xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-70 hover:bg-[#8089E1] duration-300 ">
@@ -97,7 +105,7 @@ export default function Header() {
             <p className='mt-4 font-normal'>Protect every access point while seamlessly connecting employees to their work.</p>
 
        </div>
-        </div>
+        </div> */}
       </div>
     </div>
     </>
