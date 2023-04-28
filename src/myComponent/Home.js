@@ -272,7 +272,7 @@ export default function Home() {
             >
               What is a2zPassword Manager?
             </label>
-            <div class="accordion__content lg:max-w-[60%] max-w-full mx-[5%] lg:mx-0 bg-[#60B85E] overflow-hidden border-inherit rounded-b-xl ">
+            <div class="accordion__content lg:ml-[20%] lg:max-w-[60%] max-w-full mx-[5%] lg:mx-0 bg-[#60B85E] overflow-hidden border-inherit rounded-b-xl ">
               <p class="accordion__body p-4" id="panel1">
               You don't have to remember any of your passwords since a2z google Password Manager will. They are synchronised between all of your devices and are safely kept in a digital vault. You alone, and not even a2z google password manager, have access to your passwords, so you can relax. You have the choice to add credit cards, add tags to stored accounts, save notes to passwords, or make standalone notes. Inside a2z google Password Manager, they are kept in a secure manner.
               </p>
