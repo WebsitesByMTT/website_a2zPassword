@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="flex flex-col lg:flex-row items-center gap-20 font-medium lg:mx-[7%] pb-[3%]">
         
         <div className="flex-1 ">
-     <a href='/'><img src="./A2zpassword250x100.png"  alt="Logo" /></a>  
+     <a href='/'><img src="./A2zpassword128x128.png"  alt="Logo" /></a>  
      </div>
      
       <div className=" text-white lg:flex-1  ">

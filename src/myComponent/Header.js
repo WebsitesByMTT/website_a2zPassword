@@ -55,7 +55,7 @@ export default function Header() {
        </div>
        <div className='lg:mr-[10%]'>
        <button className="text-white lg:text-xl text-sm p-3 mt-4  font-semibold bg-[#8089E1] lg:px-10 lg:py-2  rounded-2xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#8089E1] duration-300 ">
-            <a href='https://chrome.google.com/webstore/detail/true-adblocker/edhpnfalgkdhdghkdjdnhmnfnomnlobm' target="_blank">
+            <a href='https://chrome.google.com/webstore/detail/a2zpassword/baeamphhbeaipilnbjapmmonffigdmlj/related' target="_blank">
                 <div className='flex items-center gap-2 '>
                   <div>
                 <AiFillChrome />
@@ -73,7 +73,7 @@ export default function Header() {
     <div className='lg:mb-[4%] text-white lg:mt-[0%] mb:[13%] mt-[5%]'>
       <div className='flex items-center flex-col lg:gap-7 gap-8 text-center  bg-[#60B85E] lg:px-[20%] px-[3%] py-[5%]'>
         <div className='lg:text-[3rem] text-4xl leading-[1]  font-bold'>
-          <h1>Security starts with a2z google password manager</h1>
+          <h1>Security starts with a2z google password managers</h1>
         </div>
         <div className='lg:text-[1rem] text-xl  font-normal'>
           <p>The A2Z Google password manager cannot be hacked under any circumstances. In addition, we do not possess the ability to access your password due to our exclusive zero-knowledge encryption system.</p>
@@ -81,31 +81,11 @@ export default function Header() {
         <div className=''>
 
 <button className="text-white lg:text-xl text-sm p-3 font-semibold bg-[#8089E1] lg:px-14 lg:py-2  rounded-3xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-70 hover:bg-[#8089E1] duration-300 ">
-     <a href='https://chrome.google.com/webstore/detail/true-adblocker/edhpnfalgkdhdghkdjdnhmnfnomnlobm' target="_blank">
+     <a href='https://chrome.google.com/webstore/detail/a2zpassword/baeamphhbeaipilnbjapmmonffigdmlj/related' target="_blank">
       Add To Chrome
        </a>
      </button>
 </div>
-        {/* <div className='flex lg:flex-row flex-col lg:gap-12 gap-6'>
-        <div className=''>
-
-       <button className="text-white lg:text-xl text-sm p-3 font-semibold bg-[#8089E1] lg:px-14 lg:py-2  rounded-3xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-70 hover:bg-[#8089E1] duration-300 ">
-            <a href='https://chrome.google.com/webstore/detail/true-adblocker/edhpnfalgkdhdghkdjdnhmnfnomnlobm' target="_blank">
-              Personal
-              </a>
-            </button>
-            <p className='mt-4 '> Secure every one of your passwords and store them across all of your devices.</p>
-       </div>
-       <div className=''>
-       <button className="text-white lg:text-xl text-sm p-3 font-semibold bg-[#8089E1] lg:px-14 lg:py-2  rounded-3xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-70 hover:bg-[#8089E1] duration-300 ">
-            <a href='https://chrome.google.com/webstore/detail/true-adblocker/edhpnfalgkdhdghkdjdnhmnfnomnlobm' target="_blank"> 
-              Business
-              </a>
-            </button>
-            <p className='mt-4 font-normal'>Protect every access point while seamlessly connecting employees to their work.</p>
-
-       </div>
-        </div> */}
       </div>
     </div>
     </>
