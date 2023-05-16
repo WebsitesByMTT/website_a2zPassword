@@ -73,7 +73,7 @@ export default function Header() {
     <div className='lg:mb-[4%] text-white lg:mt-[0%] mb:[13%] mt-[5%]'>
       <div className='flex items-center flex-col lg:gap-7 gap-8 text-center  bg-[#60B85E] lg:px-[20%] px-[3%] py-[5%]'>
         <div className='lg:text-[3rem] text-4xl leading-[1]  font-bold'>
-          <h1>Security starts with a2z google password managers</h1>
+          <h1>Security starts with a2z google password manager</h1>
         </div>
         <div className='lg:text-[1rem] text-xl  font-normal'>
           <p>The A2Z Google password manager cannot be hacked under any circumstances. In addition, we do not possess the ability to access your password due to our exclusive zero-knowledge encryption system.</p>
