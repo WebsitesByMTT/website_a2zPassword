@@ -167,7 +167,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="text-center">
-                  It is the most easiest way to log in your all accounts with a single click                  </p>
+                  Simplify logging into all accounts with a single sign-on (SSO) solution. Authenticate once for seamless, secure access to multiple accounts without constant password entry. Enhance convenience and security         </p>
                 </div>
               </div>
             </div>
