@@ -54,7 +54,7 @@ export default function Footer() {
       
        </div>
        <div className="border-t-2 border-gray-50">
-            <h1 className="text-xl text-white text-center py-[3%] lg:pt-[1%]">© Copyright 2023, All Rights Reserved</h1>
+            <h2 className="text-xl text-white text-center py-[3%] lg:pt-[1%]">© Copyright 2023, All Rights Reserved</h2>
        </div>
      </div>
     </>

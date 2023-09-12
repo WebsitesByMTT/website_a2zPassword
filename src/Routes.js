@@ -10,15 +10,15 @@ import Blog from './myComponent/Blogs'
 export default function Rout() {
   return (
     <>
- <Routes>
-   <Route path="/" element={<Home/>}></Route>
-   <Route path="/About_us" element={<About_us/>}></Route>
-   <Route path="/Disclaimer" element={<Disclaimer/>}></Route>
-   <Route path="/Privacy_Policy" element={<Privacy_Policy/>}></Route>
-   <Route path="/TermsCondition" element={<TermsCondition/>}></Route>
-   <Route path="/Contact_us" element={<Contact_us/>}></Route>
-   <Route path="/Blog" element={<Blog/>}></Route>
- </Routes>
+      <Routes>
+        <Route path="/" element={<Home/>}></Route>
+        <Route path="/About_us" element={<About_us/>}></Route>
+        <Route path="/Disclaimer" element={<Disclaimer/>}></Route>
+        <Route path="/Privacy_Policy" element={<Privacy_Policy/>}></Route>
+        <Route path="/TermsCondition" element={<TermsCondition/>}></Route>
+        <Route path="/Contact_us" element={<Contact_us/>}></Route>
+        <Route path="/Blog" element={<Blog/>}></Route>
+      </Routes>
     </>
   )
 }
