@@ -8,7 +8,7 @@ export default function Header() {
     <>
       <nav className="flex items-center  justify-between flex-wrap text-black lg:p-6 pt-[2%] ">
         <div className="flex items-center flex-shrink-0 text-black mr-0 pl-[10%]  lg:mr-[10%]">
-          <a href='/'><img src="./A2zpassword128x128.png" className="w-100 h-16 mr-2" alt="Logo" /></a>
+          <a href='/'><img src="/A2zpassword128x128.png" className="w-100 h-16 mr-2" alt="Logo" /></a>
         </div>
         <div className="block pr-[10%] lg:hidden">
           <button
@@ -38,7 +38,7 @@ export default function Header() {
             <a href="/" className="block mt-4 lg:inline-block lg:mt-0  mr-14 text-lg lg:hover:text-[#60B85E]">
               Home
             </a>
-            <a href="/Blog" className="block mt-4 lg:inline-block lg:mt-0  mr-14 text-lg hover:text-[#60B85E]">
+            <a href="/blogs" className="block mt-4 lg:inline-block lg:mt-0  mr-14 text-lg hover:text-[#60B85E]">
               Blogs
             </a>
             <a href="/Contact_us" className="block mt-4 lg:inline-block lg:mt-0  mr-14 text-lg hover:text-[#60B85E]">

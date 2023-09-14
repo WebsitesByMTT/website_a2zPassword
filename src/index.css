@@ -87,3 +87,9 @@ input[name='panel']:checked ~ .accordion__content {
   /* Get this as close to what height you expect */
   max-height: 50em;
 }
+
+
+.article-desc a{
+  color: #60b85e;
+  font-weight: bold;
+}
