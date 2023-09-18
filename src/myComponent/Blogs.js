@@ -34,6 +34,7 @@ export default function Blogs() {
   return (
     <>
       <Header />
+      
       <div className=" p-4 lg:p-8 mt-10 mb-10">
         <div className="flex flex-col gap-8 items-center">
           <div className=" grid grid-cols-1 md:grid-cols-2 gap-5">
